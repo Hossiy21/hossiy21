@@ -2,7 +2,9 @@
 <h4 align="center">Full-Stack Developer building fast, scalable, and production-ready web applications.</h4>
 
 <br />
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hossiy21&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 <div align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
