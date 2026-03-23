@@ -50,7 +50,7 @@ I turn ideas into clean, maintainable systems that deliver real results. Faster 
 
 • Building scalable SaaS apps with Next.js + Go backend  
 • Learning and applying microservices & clean architecture  
-• Creating real-world products (font platforms, web tools, and APIs)  
+• Creating real-world products  
 
 ---
 
