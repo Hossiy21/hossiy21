@@ -70,7 +70,7 @@ I work like a technical partner, not just a developer.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hossiy21&show_icons=true&theme=github_dark_blue&hide_border=true&count_private=true" alt="Hosaina's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hossiy21&show_icons=true&theme=github_dark_blue&hide_border=true" alt="Hosaina's GitHub Stats" />
 </p>
 
 ### 📬 Let's Connect
