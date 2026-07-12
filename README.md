@@ -72,7 +72,7 @@ I work like a technical partner, not just a developer.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hossiy21&theme=github-dark-blue&hide_border=true" alt="Hosaina's GitHub Stats" />
 </p>
-### 📬 Let's Connect
+## 📬 Let's Connect
 
 • 🌐 Website: https://yhosaina.com  
 • ✍️ Blog / Channel: https://t.me/hossiydev  
