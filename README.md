@@ -67,14 +67,11 @@ Every project I build is:
 
 I work like a technical partner, not just a developer.
 
----
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hossiy21&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hossiy21&show_icons=true&theme=github_dark_blue&hide_border=true&count_private=true" alt="Hosaina's GitHub Stats" />
 </p>
-
----
 
 ### 📬 Let's Connect
 
