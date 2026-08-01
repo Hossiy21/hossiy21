@@ -66,15 +66,9 @@ Every project I build is:
 - Clean and maintainable  
 
 I work like a technical partner, not just a developer.
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hossiy21&theme=github-dark-blue&hide_border=true" alt="Hosaina's GitHub Stats" />
-</p>
 📬 Let's Connect
 
-• 🌐 Website: https://yhosaina.com  
+• 🌐 Website: https://www.yhosaina.com  
 • ✍️ Blog / Channel: https://t.me/hossiydev  
 • ✉️ Email: yhosaina@outlook.com  
 • Open to collaborations, freelance work, and building real products  
