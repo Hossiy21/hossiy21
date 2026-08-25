@@ -1,6 +1,4 @@
-<h2 align="center">Hi, I'm Hosaina Y. Nice to see you 👋</h2>
-<h4 align="center">Full-Stack Developer building fast, scalable, and production-ready web applications.</h4>
-
+<h2 align="center">Hi, I'm Hosaina Y. Nice to see you 👋</h2> <h4 align="center">Full-Stack & Backend Engineer building scalable, secure, and production-ready applications.</h4>
 <br />
 <p> 
   <img src="https://komarev.com/ghpvc/?username=hossiy21&label=Profile%20views&color=0e75b6&style=flat" />
