@@ -1,5 +1,4 @@
 <h2 align="center">Hi, I'm Hosaina Y. Nice to see you 👋</h2> <h4 align="center">Full-Stack & Backend Engineer building scalable, secure, and production-ready applications.</h4>
-<br />
 <p> 
   <img src="https://komarev.com/ghpvc/?username=hossiy21&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
@@ -35,21 +34,9 @@ I turn ideas into clean, maintainable systems that deliver real results. Faster 
 
 ---
 
-### 💡 What I Bring
-
-• ⚡ Modern, responsive frontends with Next.js & React (SSR, SEO, fast UX)  
-• 🧠 Robust backends with Node.js & Golang (APIs, microservices, Web APIs)  
-• 🏗 Clean, scalable, production-ready architecture  
-• 📈 Performance optimization (caching, efficient queries, deployment-ready)  
-• 🔐 Real-world features (authentication, integrations, real-time systems)  
-• 🤝 Clear communication, fast delivery, and reliability  
-
----
-
 ### 🧩 What I’m Working On
 
 • Building scalable SaaS apps with Next.js + Go backend  
-• Learning and applying microservices & clean architecture  
 • Creating real-world products  
 
 ---
